@@ -162,7 +162,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-harsha.appspot.com/o/Education%2FNIT_Durgapur_Logo.png?alt=media&token=09c7c48a-1885-44aa-9408-4ad9c4ad69f2",
     school: "National Institue of Technology, Durgapur",
     date: "Dec 2021 - Apr 2025",
     grade: "6.76 CGPA",
