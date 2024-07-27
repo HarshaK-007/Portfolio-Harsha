@@ -11,7 +11,8 @@ export const Bio = {
     "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/harsha-kancharana-945845226/",
   twitter: "https://x.com/HarshaK_007",
-  facebook: "https://www.facebook.com/profile.php?id=100089847055520"
+  facebook: "https://www.facebook.com/profile.php?id=100089847055520",
+  instagram: "https://www.instagram.com/harsha.kancharana/"
 };
 
 export const skills = [
@@ -171,7 +172,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-4e9eb.appspot.com/o/1696697005979.jpg?alt=media&token=4923164c-baa3-4b44-93db-886a5d3e8284",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-harsha.appspot.com/o/Education%2F12thCollege.png?alt=media&token=0f47d719-7786-4378-af87-7efb11c38d4a",
     school: "Sri Chaitanya College, Vijayawada",
     date: "Jun 2019 - Apr 2021",
     grade: "97.6%",
@@ -180,7 +181,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-harsha.appspot.com/o/Education%2Fschoollogo.png?alt=media&token=eff392a1-fc46-4773-ac14-80521009e248",
     school: "Sri Chaitanya School, Palasa",
     date: "Apr 2019",
     grade: "10 CGPA",
@@ -193,76 +194,15 @@ export const projects = [
   {
     id: 0,
     title: "Portfolio",
-    date: "Apr 202 - May 2023",
+    date: "Apr 2023 - May 2023",
     description:
       "Developed a portfolio website using frontend development showcasing my diverse skill set and creativity",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-harsha.appspot.com/o/Projects%2FPortfolio_SS.png?alt=media&token=30ac088d-f2dc-49de-998a-bcd659ba8769",
+    tags: ["HTML","CSS","JavaScript","React Js"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
-  },
-  {
-    id: 1,
-    title: "Vexa",
-    date: "Oct 2022 - Present",
-    description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
-    ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
-  },
-  {
-    id: 2,
-    title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+    github: "https://github.com/HarshaK-007/Portfolio-Harsha",
+    webapp: "https://portfolio-harsha.onrender.com/",
   },
 ];
 
