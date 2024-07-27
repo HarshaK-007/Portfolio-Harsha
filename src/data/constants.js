@@ -128,7 +128,7 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-harsha.appspot.com/o/Cerificates%2FOasis_Intern.png?alt=media&token=ff2d0a37-0ce9-4675-92b6-e8d238e8604a",
   },
   {
     id: 1,
@@ -142,7 +142,6 @@ export const experiences = [
       "CSS",
       "JavaScript"
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   },
   {
     id: 2,
@@ -157,6 +156,7 @@ export const experiences = [
       "Public Speaking",
       "Problem Solving"
     ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-harsha.appspot.com/o/Cerificates%2FRINL_Intern-1.png?alt=media&token=ff0f25e6-c6d9-460b-9463-fda9375cc28c",
   },
 ];
 
