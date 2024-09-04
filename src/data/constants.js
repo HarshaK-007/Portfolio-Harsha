@@ -103,26 +103,13 @@ export const experiences = [
     role: "Web Development Intern",
     company: "Oasis Infobyte",
     date: "Sep 2023 - Oct 2023",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    desc: "Created TO-DO list and Calculator app as a part of the internship",
     skills: [
       "HTML",
       "CSS",
       "JavaScript",
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-harsha.appspot.com/o/Cerificates%2FOasis_Intern.png?alt=media&token=ff2d0a37-0ce9-4675-92b6-e8d238e8604a",
-  },
-  {
-    id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-harsha.appspot.com/o/Experiences%2Focta.png?alt=media&token=f0931475-3b4b-49c3-b31e-3a972612c497",
-    role: "Frontend Development Intern",
-    company: "OctaNet Services Pvt Ltd",
-    date: "June 2024 - July 2024",
-    desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-    skills: [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ],
   },
   {
     id: 2,
